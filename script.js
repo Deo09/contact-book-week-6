@@ -1,6 +1,6 @@
 // Global variables
 let apikey = '';
-const rootPath = 'https://mysite.itvarsity.org/api/Contactbook/';
+const rootPath = 'https://mysite.itvarsity.org/api/ContactBook/';
 
 // Check if API key exists when page loads
 function checkApiKey() {
